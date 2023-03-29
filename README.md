@@ -1,6 +1,7 @@
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
 **linround/linround** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,11 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I’m currently learning fullStack 
 
 Learning, Exploring, Growing.  
+
 View all my open-source projects in [linround](https://github.com/linround)  
 
-🌱 I’m currently learning fullStack  
 
  
 **Languages and Tools:**   
