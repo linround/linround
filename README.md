@@ -34,5 +34,7 @@ View all my open-source projects in [linround](https://github.com/linround)
 
 
 
+<!--
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=linround)]()
+-->
 
