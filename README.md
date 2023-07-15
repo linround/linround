@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-🌱 I’m currently focusing on 3D and fullStack 
 
-Learning, Exploring, Growing.  
+- Learning, Exploring, Growing. 
+-->
+🌱 I’m currently focusing on 3D and fullStack  
 
 View all my open-source projects in [linround](https://github.com/linround)  
 
