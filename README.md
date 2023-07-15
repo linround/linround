@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning fullStack 
+🌱 I’m currently Focusing on 3D and fullStack 
 
 Learning, Exploring, Growing.  
 
