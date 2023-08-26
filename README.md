@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - Learning, Exploring, Growing. 
 -->
-🌱 I’m currently focusing on 3D and fullStack  
+🌱 I’m currently focusing on future 
 
 View all my open-source projects in [linround](https://github.com/linround)  
 
