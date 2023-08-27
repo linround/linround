@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 - Learning, Exploring, Growing. 
 -->
-🌱 I’m currently focusing on future 
+🌱 I’m currently focusing on now and future 
+⚡ Fun fact: webgl and threejs 
 
 View all my open-source projects in [linround](https://github.com/linround)  
 
