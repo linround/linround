@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: webgl and threejs
 - 🌱 I share part of [notion](https://linround.notion.site/2302f5147fdf446c9c23cd2648817699?pvs=4)
 
-View all my open-source projects in [linround](https://github.com/linround)  
+View all my open-source projects in [linround]([https://github.com/linround](https://github.com/linround?tab=repositories))  
 
 
  
